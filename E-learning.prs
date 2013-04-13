@@ -1,0 +1,12 @@
+[Panel]
+PullUp Pins=
+PullDown Pins=
+Window[0] Left=4294967293
+Window[0] Top=4294967292
+Window[0] Right=497
+Window[0] Bottom=496
+Window[0] Show=1
+Window[0] Document Name=E-learning0.pnl
+Window Count=1
+[GuiStdio]
+IFName=00000000

@@ -1,0 +1,17 @@
+[ProjectManager]
+FrameMax=0
+FrameX=210
+FrameY=4
+FrameCX=1066
+FrameCY=768
+OpenFile1=main.c,2,228,16,855,580,3,90,14,0
+OpenFile2=pwm.h,2,182,63,865,540,11,72,11,0
+OpenFile3=pwm.c,2,91,86,633,564,0,132,17,0
+OpenFile4=ProjectWindow
+PrjPos=0,0,414,0,313
+OpenFile5=AD.c,0,391,9,961,465,46,101,8,0
+OpenFile6=OutputWindow
+OutputPos=0,132,626,307,888
+ActivePRJ=E-learning.prj
+[ProjectWindow]
+ProjectWindowDispType=0
